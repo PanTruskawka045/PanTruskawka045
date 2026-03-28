@@ -13,6 +13,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PanTruskawka045&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+# ⛏️ Working Here: 
+![](https://api.loohpjames.com/serverbanner.png?ip=kokscraft.pl)
+
+---
 [![](https://visitcount.itsvg.in/api?id=PanTruskawka045&icon=0&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

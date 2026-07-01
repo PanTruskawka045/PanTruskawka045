@@ -13,6 +13,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PanTruskawka045&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+
+# 🤖 My Codex Usage:
+(To my current and future employers: I use AI thoughtfully in my work.)
+![](https://codex-stats.pantruskawka045.me/image/user-data?user=74bc8eda-8388-412f-83e2-c003dfbfeda5&avatar=https://avatars.githubusercontent.com/u/43504947?v=4)
+---
 # ⛏️ Working Here: 
 ![](https://api.loohpjames.com/serverbanner.png?ip=kokscraft.pl)
 

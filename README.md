@@ -16,7 +16,7 @@
 
 # 🤖 My Codex Usage:
 (To my current and future employers: I use AI thoughtfully in my work.)
-![](https://codex-stats.pantruskawka045.me/image/user-data?user=74bc8eda-8388-412f-83e2-c003dfbfeda5&avatar=https://avatars.githubusercontent.com/u/43504947?v=4)
+![Codex Stats](https://codex-stats.pantruskawka045.me/image/user-data?user=74bc8eda-8388-412f-83e2-c003dfbfeda5&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F43504947%3Fv%3D4)
 ---
 # ⛏️ Working Here: 
 ![](https://api.loohpjames.com/serverbanner.png?ip=kokscraft.pl)

@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Some minecraft plugins<br>🌱 I’m currently learning Java<br>🦝I love watching raccoons on tiktok (check out my liked videos on my tiktok profile)
+🔭 I’m currently working on some minecraft minigames on distributed system architecture<br>🦝I love watching raccoons on tiktok (check out my liked videos on my tiktok profile)
 
 
 ## 🌐 Socials:

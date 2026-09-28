@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Rigid Body simulation in minecraft<br>🦝I love watching raccoons on tiktok (check out my liked videos on my tiktok profile)
+🔭 I’m currently working on Rigid Body simulation in minecraft<br>🦝I love watching raccoons on tiktok (check out my liked videos on my tiktok profile)<br>🐀Ikea Gosig Ratta Collector
 
 
 ## 🌐 Socials:

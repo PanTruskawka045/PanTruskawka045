@@ -1,6 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working on Rigid Body simulation in minecraft<br>🦝I love watching raccoons on tiktok (check out my liked videos on my tiktok profile)<br>🐀Ikea Gosig Ratta Collector
 
+<img width="1315" height="1196" alt="image" src="https://github.com/user-attachments/assets/0875a31e-727c-4838-8866-853331198773" />
+
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord.gg/kokscraft) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@PanTruskawka045) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@PanTruskawka045) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@PanTruskawka045) 

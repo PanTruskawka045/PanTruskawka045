@@ -1,8 +1,11 @@
 # 💫 About Me:
 🔭 I’m currently working on Rigid Body simulation in minecraft<br>🦝I love watching raccoons on tiktok (check out my liked videos on my tiktok profile)<br>🐀Ikea Gosig Ratta Collector
 
-<img width="1315" height="1196" alt="image" src="https://github.com/user-attachments/assets/0875a31e-727c-4838-8866-853331198773" />
+<details>
+  <summary>Click me 👀</summary>
 
+  <img width="438" height="396" alt="image" src="https://github.com/user-attachments/assets/0875a31e-727c-4838-8866-853331198773" />
+</details>
 
 
 ## 🌐 Socials:
